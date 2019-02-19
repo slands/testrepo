@@ -1,1 +1,3 @@
 A file only in foo
+
+Added on localfoo
