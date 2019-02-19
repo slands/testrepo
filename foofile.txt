@@ -1,3 +1,4 @@
 A file only in foo
 
+Updated in tracking branch
 Added on localfoo
